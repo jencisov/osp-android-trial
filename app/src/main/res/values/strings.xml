@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OSP Android Trial</string>
+
+    <string name="wrong_user_name">Por favor, ingrese su nombre de usuario</string>
+    <string name="wrong_password">Por favor, ingrese su contraseña</string>
+    <string name="login_error">Ha ocurrido un error, por favor revise su nombre de usuario y contraseña</string>
+
+    <string name="user_name">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Login</string>
+
+    <string name="welcome">¡Bienvenido!</string>
+</resources>
